@@ -45,5 +45,3 @@ y --; // decrease by 1
 console.log(y)
 
 // y ++=; doesn't exist
-
-

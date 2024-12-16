@@ -23,5 +23,3 @@ function sqrtNumber(){
 }
 
 sqrtNumber();
-
-
