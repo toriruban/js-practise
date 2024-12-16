@@ -31,11 +31,3 @@ console.log(result1.min); // 1
 const numbersSet2 = [2, 34, 99, 3, 22, 36, 733, 18];
 const result2 = findNumber(numbersSet2);
 console.log(result2.max, result2.min); // 733 2
-
-
-
-
-
-
-
-
